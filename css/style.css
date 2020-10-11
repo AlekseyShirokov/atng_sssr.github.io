@@ -1,0 +1,133 @@
+body
+{
+    background-color:  #343a40;
+    color: white;
+    font-family: Arial;
+}
+.header
+{
+    background-color: rgb(255, 123, 0);
+    color: white;
+    padding: 5px 5px 5px 5px;
+    margin: 0;
+    font-family: Arial;
+}
+p.header
+{
+    font-family: Arial;
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+a.nav-link
+{
+    color: white;
+    font-family: Arial;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.carousel-item
+{
+    height: 300px;
+}
+.carousel-inner
+{
+    height: 300px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.context
+{
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    color: #747691;
+    background-color: white;
+    font-size: 15px;
+    font-family: Arial;
+}
+img.context
+{
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+h1.context
+{
+    margin: 0px;
+    padding: 0px;
+    font-size: 45px;
+    font-family: Arial;
+    font-variant-caps: all-petite-caps;
+    font-weight: bold;
+    background-color: transparent;
+}
+h2.context
+{
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+    font-family: Arial;
+    font-variant-caps: all-petite-caps;
+    font-weight: bold;
+}
+p.context
+{
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    text-align: justify;
+    background-color: transparent;
+}   
+input.context
+{
+    background-color:  #343a40;
+    border: none;
+    color: white;
+}
+input.context:hover
+{
+    background-color: rgb(255, 123, 0);;
+    border: none;
+    color: white;
+}
+.card
+{
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+h2.context.card-title
+{
+    background-color: transparent;
+}
+p.context.card-text
+{
+    background-color: transparent;
+}
+.card:hover
+{
+    background-color: rgb(255, 123, 0);
+    border-radius: 10px;
+}
+.card-img-top
+{
+    border-radius: 10px;
+}
+footer
+{
+    margin-top: 10px;
+    background-color: rgb(255, 94, 0);
+}
+a.footer
+{
+    color: white;
+    
+}
